@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="76" moduleid="434" modulename="page" contextid="699">
+  <page id="76">
+    <name>Analysis of Arguments and Use of Evidence </name>
+    <intro>&lt;p&gt;This rubric can be used to help students focus on what is good argumentative writing and help them revise their writing. It can also be used for peer review and for teacher evaluation of student writing.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;" class="MsoNormal"&gt;&lt;span&gt;&lt;span class="nolink"&gt;The 2014 GED&lt;/span&gt;&lt;/span&gt;&lt;sup&gt;®&lt;/sup&gt; &lt;span class="nolink"&gt;assessment focuses on three key elements of writing – analysis of arguments and use of evidence, development of ideas and organizational structure, and clarity and command of standard English conventions, with each element being worth up to 4 points on a 12 point scale. The analysis of arguments and use of evidence rubric highlights the expectations for the writing. This rubric can be used to help students focus on what is good argumentative writing and help them revise their writing. It can also be used for peer review and for teacher evaluation of student writing.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;" class="MsoNormal"&gt;&lt;a title="PDF - opens in new window - GED Rubric - Trait 1" href="@@PLUGINFILE@@/GED_Rubric_-_Trait_1.pdf" target="_blank"&gt;Analysis of Arguments and Use of Evidence Rubric&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small; color: #888888;"&gt;Copyright © 2012 GED Testing Service LLC. All rights reserved. Reproduced with permission.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small; color: #888888;"&gt; GED® and GED Testing Service® are registered trademarks of the American Council on Education (ACE). They may not be used or reproduced without the express written permission of ACE or GED Testing Service. The GED® and GED Testing Service® brands are administered by GED Testing Service LLC under license from the American Council on Education.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1513632788</timemodified>
+  </page>
+</activity>

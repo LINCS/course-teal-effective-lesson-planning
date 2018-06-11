@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="428" modulename="choice" contextid="693">
+  <choice id="5">
+    <name>How much time do you spend planning?</name>
+    <intro>&lt;p&gt;Now, how much time do you actually &lt;span style="font-weight: bold; font-style: italic;"&gt;spend&lt;/span&gt; planning and collaborating with colleagues?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>1</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1472694846</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="21">
+        <text>none</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694846</timemodified>
+      </option>
+      <option id="22">
+        <text>1 hour a week</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694846</timemodified>
+      </option>
+      <option id="23">
+        <text>2 hours a week</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694846</timemodified>
+      </option>
+      <option id="24">
+        <text>1 -2 hours a month</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694846</timemodified>
+      </option>
+      <option id="25">
+        <text>more</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694846</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>

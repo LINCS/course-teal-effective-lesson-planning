@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="12" moduleid="440" modulename="wiki" contextid="705">
+  <wiki id="12">
+    <name>What does your PLC do for you?</name>
+    <intro>&lt;p&gt;We can consider the participants in this course as a type of professional learning community (PLC). Add your thoughts here about what a PLC brings your practice. What are you learning? What does it mean to you? After all, you are putting in a lot of time into this course.&lt;br /&gt;&lt;br /&gt;Click on the &lt;span style="font-weight: bold;"&gt;Edit &lt;/span&gt;tab to add your ideas. Be sure to include your name in parentheses after your addition.&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;img hspace="0" vspace="0" border="0" style="width: 393px; height: 294px;" title="PLC image" alt="PLC image" src="@@PLUGINFILE@@/PLC_image.jpg" /&gt;&lt;/div&gt;
+&lt;p&gt;As an added challenge, put it in 140 characters or less -- a Twitter-wiki!&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>1377119070</timecreated>
+    <timemodified>1473966207</timemodified>
+    <firstpagetitle>First Page</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>1</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>

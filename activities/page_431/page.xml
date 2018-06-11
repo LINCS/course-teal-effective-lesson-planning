@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="74" moduleid="431" modulename="page" contextid="696">
+  <page id="74">
+    <name>Presentation: Sentence combining [Video]</name>
+    <intro>&lt;p&gt;This activity is easy to incorporate into your differentiated instruction plans. You are probably already doing it! Learn how to use this effective, research-based instructional strategy more deliberately to advance students' writing skills.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span size="3" style="font-size: medium;"&gt;Sentence combining is easy to incorporate into your differentiated instruction plans. You are probably already doing it in some form. Watch the presentation below to learn how to use this effective, research-based instructional strategy more deliberately to advance students' writing skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/xIbPBNEQxxc?version=3&amp;amp;hl=en_US" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/xIbPBNEQxxc?version=3&amp;amp;hl=en_US" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt;[&lt;a style="color: #0000ff;" target="_blank" href="@@PLUGINFILE@@/TEAL_Center_Sentence_Combining_MacRevisions_0612_2012_with_transcript_Compatibility_Mode_.pdf" title="PDF - Opens in new window."&gt;Transcript of presentation&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt;
+&lt;div style="text-align: left;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update &lt;a href="http://www.adobe.com/go/getflashplayer" title="Get a flash player  - opens in new window" target="_blank"&gt;Adobe Flash Player&lt;/a&gt; by downloading it.]&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1473964848</timemodified>
+  </page>
+</activity>

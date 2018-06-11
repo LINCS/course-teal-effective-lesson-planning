@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="574" modulename="choice" contextid="888">
+  <choice id="9">
+    <name>How much time do your students do math?</name>
+    <intro>&lt;p&gt;Math is a topic that students sometimes avoid, and some instructors feel less confident about teaching; therefore, the focus of instruction lies in other content areas.  Think about the time your program devotes to math instruction. &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Q: &lt;strong&gt;How much time&lt;/strong&gt; do your students spend on math on average per day while attending classes?&lt;/i&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>1</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1473964879</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="39">
+        <text>none - 20 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473964879</timemodified>
+      </option>
+      <option id="40">
+        <text>21 minutes - 45 minutes</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473964879</timemodified>
+      </option>
+      <option id="41">
+        <text>46 minutes - 1.5 hours</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473964879</timemodified>
+      </option>
+      <option id="42">
+        <text>over 1.5 hours</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1473964879</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>

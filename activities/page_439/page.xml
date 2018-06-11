@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="79" moduleid="439" modulename="page" contextid="704">
+  <page id="79">
+    <name>Presentation: A Model for Collaboration [Video]</name>
+    <intro>&lt;p&gt;The outcome of a lesson is the student performance and learning, right? So doesn't it make sense to evaluate our lessons based on student work? Watch this presentation to learn how to do this in a deliberate way.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span size="3"&gt;The outcome of a lesson is the student performance and learning, right? So doesn't it make sense to evaluate our lessons based on student work? Watch the presentation below to learn how to do this in a deliberate way, collaborating with peers. &lt;/span&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/rUSe068Nv9Q?version=3&amp;amp;hl=en_US" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/rUSe068Nv9Q?version=3&amp;amp;hl=en_US" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3"&gt;[&lt;a target="_top" href="@@PLUGINFILE@@/TEAL_Center_Looking_at_Student_Work_macREvised_062012.pdf" title="PDF -opens in new window"&gt;Transcript of presentation&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3"&gt;Use the &lt;a href="@@PLUGINFILE@@/LASW_Protocol.pdf" target="_blank" title="PDF -Opens in new window."&gt;&lt;abbr title="Looking at Student Work"&gt;LASW&lt;/abbr&gt; Protocol&lt;/a&gt; with your team to be efficient.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3"&gt;Find a &lt;a href="http://www.cited.org/index.aspx?page_id=107" title="Website that opens in a new window" target="_blank"&gt;review of research&lt;/a&gt; on the effectiveness of this model of teacher collaboration as professional learning - if you are interested.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;Find more &lt;/span&gt;&lt;a href="http://www.allthingsplc.info/" title="All Things PLC" target="_blank"&gt;in-depth information&lt;/a&gt;&lt;span&gt; about professional learning communities at this online resource, linked - if you are interested. You may be asked to register for this free site.&lt;/span&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update&lt;a href="http://www.adobe.com/go/getflashplayer" title="get new version of adobe flash player" target="_blank"&gt; Adobe Flash Player&lt;/a&gt;.]&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;span size="1" style="font-size: xx-small;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;span size="1" style="font-size: xx-small;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;span size="1" style="font-size: xx-small;"&gt;&lt;span size="1" style="font-size: xx-small;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1473967876</timemodified>
+  </page>
+</activity>

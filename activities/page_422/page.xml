@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="70" moduleid="422" modulename="page" contextid="687">
+  <page id="70">
+    <name>Background readings</name>
+    <intro>&lt;p&gt;Fact sheets and short articles on lesson planning.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;These&lt;span class="nolink"&gt; TEAL Center&lt;/span&gt; fact sheets will provide some background knowledge and help you put the concepts of planning into the context of adult education teaching:&lt;/div&gt;
+&lt;div style="text-align: left;"&gt; &lt;/div&gt;
+&lt;h3 style="text-align: left;"&gt;General (with writing examples)&lt;/h3&gt;
+&lt;div style="text-align: left;"&gt;&lt;a title="PDF - opens in new window - Lesson Planning Fact Sheet" href="@@PLUGINFILE@@/8_TEAL_Lesson_Planning.pdf" target="_blank"&gt;Effective Lesson Planning&lt;/a&gt;: Planning ahead to identify a course of action that can effectively help learners reach their goals and objectives is an important first step in effective instruction. Lesson planning communicates to learners what they will learn and how their goals will be assessed, and it helps instructors organize content, materials, time, instructional strategies, and assistance in the classroom.&lt;span&gt; &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a title="PDF opens in new window - Student centered learning fact sheet" href="@@PLUGINFILE@@/6_TEAL_Student-Centered.pdf" target="_blank"&gt;Student-Centered Learning&lt;/a&gt;: Student-centered learning is an approach to learning in which learners choose not only &lt;i&gt;what&lt;/i&gt; to study but also &lt;i&gt;how&lt;/i&gt; and &lt;i&gt;why&lt;/i&gt;. &lt;span&gt;&lt;/span&gt;At the heart of the learning environment are learner responsibility and activity, in contrast to the emphasis on instructor control and coverage of academic content found in conventional, didactic teaching.&lt;span&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt; Bookmark these Fact Sheets for future reference and share with colleagues. They may also be downloaded from the &lt;a href="http://lincs.ed.gov/programs/teal" title="New Website - opens in a new window" target="_blank"&gt;TEAL Web site&lt;/a&gt;.&lt;/div&gt;
+&lt;div style="text-align: left;"&gt; &lt;/div&gt;
+&lt;h3 style="text-align: left;"&gt;Math&lt;/h3&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="@@PLUGINFILE@@/CBS_AskingEffectiveQuestions.pdf" title="PDF Opens in new window" target="_blank"&gt;Asking Effective Questions: Provoking Students Thinking/Deepening Conceptual Understanding in the Math Classroom&lt;/a&gt;  &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Researchers support a problemsolving approach in the mathematics classroom because it engages students in inquiry, prompting them to build on and improve their current knowledge as they “construct” explanations that help them solve the task at hand. “In a constructivist classroom,” Marian Small writes, “students are recognized as the ones who are actively creating their own knowledge” (2008, p. 3). The teacher’s skilful questioning plays a vital role in this context, helping students to identify thinking processes, to see the connections between ideas and to build new understanding as they work their way to a solution that makes sense to them. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="text-align: left;"&gt; &lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1472694523</timemodified>
+  </page>
+</activity>

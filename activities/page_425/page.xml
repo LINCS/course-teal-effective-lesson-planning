@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="73" moduleid="425" modulename="page" contextid="690">
+  <page id="73">
+    <name>Optional readings</name>
+    <intro>&lt;p&gt;Additional articles on lesson planning and backwards design.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;Check out these additional articles and video on lesson planning and backward design if you are interested, or save them for later. We have included them here just FYI.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Backward Design&lt;/span&gt; - What is it? View the video below. &lt;a style="color: #0000ff;" title="this video" href="http://www.youtube.com/watch?v=0iGPtTA_Yjs" target="_top"&gt;this video&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Lesson Planning&lt;/span&gt; &lt;a title="PDF opens in new window, Lesson Planning" href="http://www.wwcc.wy.edu/facres/tfs/focalites/LessonPlan_Focalite.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;" color="#0000ff"&gt;resource&lt;/span&gt; &lt;/a&gt;from www.teachingforsuccess.com, a community college faculty development center. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;"&gt;Writing Standards-based Lessons, &lt;/span&gt;&lt;span style="font-style: italic;"&gt;&lt;a title="PDF opens in new page, Planning for Improved Student Achievement" href="https://www.sreb.org/sites/main/files/file-attachments/08v05_sbu_intro.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;Planning for Improved Student Achievement&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="font-weight: bold;"&gt; &lt;/span&gt;resource from High Schools that Work, an effort of the Southern Regional Education Board.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;Collection Scope and Criteria for Inclusion&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1513632193</timemodified>
+  </page>
+</activity>

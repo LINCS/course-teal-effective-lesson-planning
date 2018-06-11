@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="32" moduleid="592" modulename="assign" contextid="907">
+  <assign id="32">
+    <name>The Lesson Planning Model</name>
+    <intro>&lt;p&gt;Read the following background information, below, on how to incorporate principles of backward design into the WIPPEA model of lesson planning. Take one of your lessons with which you have had success in the past and incorporate principles of backward design (e.g., plan lessons beginning with the end in mind, and target instruction both to the lesson objective and to the evaluation of student mastery of the objective). Answer these questions as you plan your new lesson:&lt;i&gt; How will I expect students to demonstrate understanding or mastery of this objective? What type of evaluation activity will best assess students' ability to learn and apply their new knowledge?&lt;/i&gt; Use the &lt;a href="$@PAGEVIEWBYID*437@$" title="Build a lesson in the Online Lesson Planner" target="_blank"&gt;Online Lesson Planner&lt;/a&gt; to create your lesson. Then teach the lesson in one of your classes using this lesson plan and&lt;em&gt; write a one-page journal reflection of how you incorporated backward design into your lesson planning as well as your reactions to using backward design principles. &lt;/em&gt;Submit your lesson plan and your reflection below.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Backward Design Principles Incorporated into the WIPPEA Model of Lesson Planning&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Online Lesson Planner is designed as a tool for adult educators to improve instruction. It is intended for the use of both new teachers who are studying their craft and of experienced teachers developing detailed lesson plans to share with their peers. &lt;/p&gt;
+&lt;p&gt;The acronym WIPPEA represents the first letter of each stage in the lesson planning model: &lt;strong&gt;W&lt;/strong&gt;arm-up, &lt;strong&gt;I&lt;/strong&gt;ntroduction, &lt;strong&gt;P&lt;/strong&gt;resentation, &lt;strong&gt;P&lt;/strong&gt;ractice, &lt;strong&gt;E&lt;/strong&gt;valuation, &lt;strong&gt;A&lt;/strong&gt;pplication. The WIPPEA model with an emphasis on backward design is a guide for teachers in planning effective lessons. This model for lesson planning helps ESL, ABE, ASE, and other teachers create a smooth instructional flow and scaffold learning in small chunks.&lt;/p&gt;
+&lt;p&gt;The lesson planning model represents a continuous teaching cycle in which each learning concept builds on the previous one, thereby serving as an instructional roadmap for teachers. Using principles of backward design (G. Wiggins and J. McTighe, 1992) in which teacher plan lessons beginning with the end in mind, teachers target instruction both to the lesson objective and the evaluation of mastery of the objective. The teacher asks-and answers-the following questions at the beginning of lesson preparation: How will I expect students to demonstrate understanding or mastery of this objective? What type of evaluation activity will best assess students' ability to learn and apply their new knowledge? With the evaluation activity decided and clearly stated at the beginning of the lesson, the teacher and students have a clear understanding of where instruction is headed. The teacher then designs the lesson activities, following the WIPPEA stages and always keeping the end in mind as the lesson progresses through each stage.&lt;/p&gt;
+&lt;p&gt;The WIPPEA model and the backward design process together provide a structure for developing student-centered lessons. This model uses a sequence of activities to teach one objective at a time. The teacher will not always be able to complete each lesson plan in one class period; sometimes two or three class periods are necessary before students demonstrate mastery of an objective. When the teacher has internalized the steps in the WIPPEA planning process as well as the use of backward design, lesson planning becomes a quick, easy process.&lt;/p&gt;
+&lt;p&gt;The model is based on the work from Madeline Hunter from her text, &lt;em&gt;Mastery Teaching&lt;/em&gt; (1982), and adapted by the ESL Teacher Institute, Lesson Planning Module, then published by Longman, &lt;em&gt;Teacher Training Through Video&lt;/em&gt;, 1992.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024601</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="195">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="196">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="197">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="198">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="199">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="200">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="201">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="717">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="718">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

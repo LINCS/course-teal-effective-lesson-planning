@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="427" modulename="choice" contextid="692">
+  <choice id="4">
+    <name>How much paid time do you have for planning?</name>
+    <intro>&lt;p&gt;How much paid time to you have to plan and collaborate? We want to know what's really happening in the field.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>1</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1472694813</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="16">
+        <text>none</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694813</timemodified>
+      </option>
+      <option id="17">
+        <text>1 hour a week</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694814</timemodified>
+      </option>
+      <option id="18">
+        <text>2 hours a week</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694814</timemodified>
+      </option>
+      <option id="19">
+        <text>1 -2 hours a month</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694814</timemodified>
+      </option>
+      <option id="20">
+        <text>more</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694814</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>

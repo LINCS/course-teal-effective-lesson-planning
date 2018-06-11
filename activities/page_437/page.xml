@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="77" moduleid="437" modulename="page" contextid="702">
+  <page id="77">
+    <name>Build a lesson in the Online Lesson Planner</name>
+    <intro>&lt;p&gt;Build your lesson in the online form and save to share with colleagues.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;The online &lt;a title="link to online LINCS lesson planner" href="https://lessonplanner.lincs.ed.gov/" target="_blank"&gt;Lesson Planner&lt;/a&gt; is a tool that allows you to build a full lesson, following the WIPPEA model and incorporating backward design. Instructions for using the Lesson Planner are included on the site. Create a lesson plan using your objective and incorporating formative assessment strategies. Save your lesson as you go.&lt;/div&gt;
+&lt;h3&gt;&lt;span style="font-size: 1.17em; font-weight: normal; line-height: 1.231;"&gt;Lesson Planner&lt;/span&gt;&lt;/h3&gt;
+&lt;div&gt;
+&lt;p style="text-align: left;"&gt;When you go to the &lt;a href="https://lessonplanner.lincs.ed.gov/" title="link to LINCS Lesson Planner site" target="_blank"&gt;LINCS Lesson Planner&lt;/a&gt;, click the "Log in / Register" menu link at the top right of the page. Log in using the same e-mail address and password as you use to access this course in the LINCS Learning Portal. &lt;span&gt;Make sure to take the tutorial before you start your lesson plan.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lessonplanner.lincs.ed.gov/" title="link to online LINCS Lesson Planner" target="_blank"&gt;&lt;img src="https://courses.lincs.ed.gov/1/draftfile.php/219/user/draft/249105255/LINCS-Lesson-Planner.gif" width="600" height="350" alt="LINCS Lesson Planner home page" style="margin: 5px; vertical-align: middle;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Submit your Lesson&lt;/h3&gt;
+&lt;div style="text-align: left;"&gt;&lt;span&gt;When you have completed your lesson, copy the URL link so you can share it with your facilitator as you submit this assignment. You can also print it the lesson for use in your classroom. &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;img src="https://courses.lincs.ed.gov/1/draftfile.php/219/user/draft/249105255/URL_Lesson_planner.gif" width="600" height="350" alt="Shows My Lesson Plans page where you can copy URL for sharing and/or print your lesson plan. The Share link is highlighted." style="margin: 5px; vertical-align: middle;" /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>23</revision>
+    <timemodified>1513633823</timemodified>
+  </page>
+</activity>

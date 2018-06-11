@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="107" moduleid="418" modulename="label" contextid="683">
+  <label id="107">
+    <name>Post a journal entry about your familiarity with e...</name>
+    <intro>&lt;p&gt;&lt;span style="color: #000000; font-family: verdana,tahoma,arial,serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 14px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; font-size: x-small; display: inline ! important; float: none;"&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Post a journal entry about your familiarity with effective lesson planning.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style="color: #000000; font-family: verdana,tahoma,arial,serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 14px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; font-size: x-small; display: inline ! important; float: none;"&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1380750761</timemodified>
+  </label>
+</activity>

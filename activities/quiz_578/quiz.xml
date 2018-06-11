@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="578" modulename="quiz" contextid="892">
+  <quiz id="6">
+    <name>What types of activities are you doing and what types of tools are you using with your students in math class?</name>
+    <intro>&lt;p&gt;This is not graded. You will be provided with examples when you submit your answer.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>4368</reviewspecificfeedback>
+    <reviewgeneralfeedback>4368</reviewgeneralfeedback>
+    <reviewrightanswer>4368</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>1</shuffleanswers>
+    <questions>88,0</questions>
+    <sumgrades>1.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1473964929</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="50">
+        <question>88</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="436">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

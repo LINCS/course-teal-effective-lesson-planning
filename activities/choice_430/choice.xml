@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="430" modulename="choice" contextid="695">
+  <choice id="7">
+    <name>What quantity of text do your students write?</name>
+    <intro>&lt;p&gt;K-12 researchers are trying to learn how much time and how much volume students are actually writing. Let's see what we know about these topics for adult education.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: bold;"&gt;What quantity of text&lt;/span&gt; do your students write in class per week?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>0</publish>
+    <showresults>1</showresults>
+    <display>1</display>
+    <allowupdate>1</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1472694902</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <options>
+      <option id="30">
+        <text>none or some fill-in-the-blank worksheets</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694902</timemodified>
+      </option>
+      <option id="31">
+        <text>a few sentences</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694902</timemodified>
+      </option>
+      <option id="32">
+        <text>a paragraph</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694902</timemodified>
+      </option>
+      <option id="33">
+        <text>several paragraphs</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694902</timemodified>
+      </option>
+      <option id="34">
+        <text>an essay or more</text>
+        <maxanswers>0</maxanswers>
+        <timemodified>1472694903</timemodified>
+      </option>
+    </options>
+    <answers>
+    </answers>
+  </choice>
+</activity>

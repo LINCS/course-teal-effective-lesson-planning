@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="105" moduleid="1030" modulename="assign" contextid="1487">
+  <assign id="105">
+    <name>Writing objectives: As easy as ABCD</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Instructional objectives must be &lt;i&gt;specific&lt;/i&gt;, &lt;i&gt;outcomes-based&lt;/i&gt;, and &lt;i&gt;measurable&lt;/i&gt;. &lt;b&gt;ABCD&lt;/b&gt; is a mnemonic for remembering these steps:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;A = Audience&lt;/b&gt;, the student for whom this objective is written&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;B = Behavior&lt;/b&gt;, the verb that describes what you want them to do&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;C = Condition&lt;/b&gt;, the circumstances under which they should do the action&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;D = Degree&lt;/b&gt;, the level of acceptable performance&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Here are 2 examples:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Given an outline map of Africa [condition], pre-GED students [audience] will be able to identify and label the countries [behavior] with 90% accuracy [degree].&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Given a prompt [condition], students [audience] will write an introductory paragraph [behavior] that meets a rubric's "excellent" expectations [degree]. &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Move beyond "students will learn to..." -- Grab one of &lt;a href="@@PLUGINFILE@@/Taxonomy_of_Verbs_for_TEAL.pdf" title="PDF - opens in new window" target="_blank"&gt;these verbs&lt;/a&gt; for your objective and make your learning actionable. Download the pdf version of the lists, categorized for verbs that describe tasks, study skills, analysis skills, and synthesis skills. &lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;&lt;i&gt;&lt;br /&gt;Differentiate your objective &lt;/i&gt;&lt;/b&gt;by amount of time allotted, level of support given, amount of text expected, and/or level of performance.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;For this assignment, write a differentiated objective for your lesson plan to accommodate various groups.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024583</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="710">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="711">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="712">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="713">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="714">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="715">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="716">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1989">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1990">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

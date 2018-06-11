@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="71" moduleid="423" modulename="page" contextid="688">
+  <page id="71">
+    <name>Presentation: Effective Lesson Planning [Video]</name>
+    <intro>&lt;p&gt;With your goals or "ends" in mind, you can more clearly articulate to students why and how you are sequencing the course, the week, and the class.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3" style="font-size: medium;"&gt;We have reflected extensively on self-regulated learning and the importance of identifying and articulating a clear goal. Put this learning to work in your lesson planning. It's good self-discipline! With your goals or "ends" in mind, you can more clearly articulate to students why and how you are sequencing the course, the week, and the class. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div id="media"&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/mn7CHMDhejs?version=3&amp;amp;hl=en_US" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/mn7CHMDhejs?version=3&amp;amp;hl=en_US" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt; &lt;/span&gt;&lt;/object&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span size="3" style="font-size: medium;"&gt;[&lt;a style="color: #0000ff;" target="_blank" href="@@PLUGINFILE@@/Effective_Lesson_Planning_TEAL_rev022711_1_Compatibility_Mode_.pdf" title="PDF - Opens in new window."&gt;Transcript of presentation&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;span size="1" style="font-size: xx-small;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update&lt;a href="http://www.adobe.com/go/getflashplayer" title="webpage with adobe flash player - opens in new window" target="_blank"&gt; Adobe Flash Player&lt;/a&gt; by downloading it here: http://www.adobe.com/go/getflashplayer]&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1472694613</timemodified>
+  </page>
+</activity>

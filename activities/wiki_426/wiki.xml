@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="426" modulename="wiki" contextid="691">
+  <wiki id="11">
+    <name>Pros and Cons - A one-minute freewrite!</name>
+    <intro>&lt;p style="text-align: left;"&gt;Take just a moment to record your thoughts about lesson planning in both categories (pro's and con's).&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Below is a &lt;a href="http://www.wordle.net/" title="Webpage used to generate image below - opens in new window" target="_blank"&gt;pro statements wordle&lt;/a&gt;. Wordle is a website for generating “word clouds” from text that you provide. (You can &lt;a href="@@PLUGINFILE@@/Wordle_of_lesson_planning_benefits_2.jpg" target="_blank" title="image file of Wordle of lesson planning benefits - opens in new window"&gt;save this image&lt;/a&gt; to your computer.)&lt;br /&gt; &lt;br /&gt; Click on the &lt;span&gt;Edit &lt;/span&gt;tab to add your ideas. Be sure to include your name in parentheses after your addition.&lt;br /&gt;&lt;img src="@@PLUGINFILE@@/Wordle_of_lesson_planning_benefits_2.jpg" width="960" height="720" alt="wordle" style="width: 100%; height: 100%;" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>1377119070</timecreated>
+    <timemodified>1472694752</timemodified>
+    <firstpagetitle>First Page</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>1</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>
