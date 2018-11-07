@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-11-effective_lesson_planning-20180611-1551-nu.mbz</name>
+    <name>backup-moodle2-course-11-effective_lesson_planning-20181107-1700-nu.mbz</name>
     <moodle_version>2013111811.01</moodle_version>
     <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
     <backup_version>2013111800</backup_version>
     <backup_release>2.6</backup_release>
-    <backup_date>1528746732</backup_date>
+    <backup_date>1541628052</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
@@ -19,7 +19,7 @@
     <original_course_contextid>184</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="00b89c73ae7ccd9e42b0e09b519d4441">
+      <detail backup_id="588e9b109a3550ca66ca89be98917b55">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -285,25 +285,25 @@ Assignment
           <directory>activities/wiki_440</directory>
         </activity>
         <activity>
-          <moduleid>442</moduleid>
-          <sectionid>276</sectionid>
-          <modulename>journal</modulename>
-          <title>Set your personal teaching goal for effective lesson planning </title>
-          <directory>activities/journal_442</directory>
-        </activity>
-        <activity>
           <moduleid>443</moduleid>
           <sectionid>276</sectionid>
           <modulename>label</modulename>
-          <title>Remember that your goal statements need to be spec...</title>
+          <title>Goal statements need to be specific enough to ensu...</title>
           <directory>activities/label_443</directory>
         </activity>
         <activity>
           <moduleid>883</moduleid>
           <sectionid>276</sectionid>
           <modulename>page</modulename>
-          <title>Steps to refine your goals statements</title>
+          <title>Steps to refine your goal statements</title>
           <directory>activities/page_883</directory>
+        </activity>
+        <activity>
+          <moduleid>442</moduleid>
+          <sectionid>276</sectionid>
+          <modulename>journal</modulename>
+          <title>Set your personal teaching goal for effective lesson planning </title>
+          <directory>activities/journal_442</directory>
         </activity>
         <activity>
           <moduleid>3233</moduleid>
@@ -387,7 +387,7 @@ Assignment
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-11-effective_lesson_planning-20180611-1551-nu.mbz</value>
+        <value>backup-moodle2-course-11-effective_lesson_planning-20181107-1700-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -965,18 +965,6 @@ Assignment
       </setting>
       <setting>
         <level>activity</level>
-        <activity>journal_442</activity>
-        <name>journal_442_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>journal_442</activity>
-        <name>journal_442_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
         <activity>label_443</activity>
         <name>label_443_included</name>
         <value>1</value>
@@ -997,6 +985,18 @@ Assignment
         <level>activity</level>
         <activity>page_883</activity>
         <name>page_883_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_442</activity>
+        <name>journal_442_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_442</activity>
+        <name>journal_442_userinfo</name>
         <value>0</value>
       </setting>
       <setting>

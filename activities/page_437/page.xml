@@ -4,25 +4,31 @@
     <name>Build a lesson in the Online Lesson Planner</name>
     <intro>&lt;p&gt;Build your lesson in the online form and save to share with colleagues.&lt;/p&gt;</intro>
     <introformat>1</introformat>
-    <content>&lt;div style="text-align: left;"&gt;The online &lt;a title="link to online LINCS lesson planner" href="https://lessonplanner.lincs.ed.gov/" target="_blank"&gt;Lesson Planner&lt;/a&gt; is a tool that allows you to build a full lesson, following the WIPPEA model and incorporating backward design. Instructions for using the Lesson Planner are included on the site. Create a lesson plan using your objective and incorporating formative assessment strategies. Save your lesson as you go.&lt;/div&gt;
-&lt;h3&gt;&lt;span style="font-size: 1.17em; font-weight: normal; line-height: 1.231;"&gt;Lesson Planner&lt;/span&gt;&lt;/h3&gt;
+    <content>&lt;div style="text-align: left;"&gt;The online &lt;a title="link to online LINCS lesson planner" href="https://community.lincs.ed.gov/lesson-planner" target="_blank"&gt;Lesson Planner&lt;/a&gt; is a tool that allows you to build a full lesson, following the WIPPEA model and incorporating backward design. Instructions for using the Lesson Planner are included on the site. Create a lesson plan using your objective and incorporating formative assessment strategies.&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;/div&gt;
+&lt;h3 style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;&lt;span style="line-height: 1.231;"&gt;Use the Lesson Planner&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div style="text-align: left;"&gt;&lt;ol&gt;
+&lt;li style="text-align: left;"&gt;Go to the &lt;a href="https://community.lincs.ed.gov/lesson-planner" title="link to LINCS Lesson Planner site" target="_blank"&gt;LINCS Lesson Planner&lt;/a&gt;. Click the&lt;strong&gt; Log In&lt;/strong&gt; menu link at the top right of the page. Log in using the same e-mail address and password as you use to access this course in the LINCS Learning Portal.&lt;/li&gt;
+&lt;li&gt;On the &lt;b&gt;My LINCS&lt;/b&gt; page, choose &lt;b&gt;My Lesson Plans&lt;/b&gt; in the left navigation bar.&lt;/li&gt;
+&lt;li&gt;Choose &lt;b&gt;Add a Lesson&lt;/b&gt; and begin building your lesson. Save your lesson at the end of each section—Basic Information, Objectives, Resources, and so on—by scrolling to the bottom of the form and choosing &lt;b&gt;Save&lt;/b&gt;.&lt;/li&gt;
+&lt;li&gt;After you save a section, choose &lt;b&gt;Edit&lt;/b&gt; next the title of your lesson and continue building the lesson.&lt;/li&gt;
+&lt;li&gt;After saving the completed lesson plan, &lt;b&gt;copy the URL link&lt;/b&gt; so you can share it with your facilitator as you submit the assignment. You can also print the lesson for us in your classroom&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
 &lt;div&gt;
-&lt;p style="text-align: left;"&gt;When you go to the &lt;a href="https://lessonplanner.lincs.ed.gov/" title="link to LINCS Lesson Planner site" target="_blank"&gt;LINCS Lesson Planner&lt;/a&gt;, click the "Log in / Register" menu link at the top right of the page. Log in using the same e-mail address and password as you use to access this course in the LINCS Learning Portal. &lt;span&gt;Make sure to take the tutorial before you start your lesson plan.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lessonplanner.lincs.ed.gov/" title="link to online LINCS Lesson Planner" target="_blank"&gt;&lt;img src="https://courses.lincs.ed.gov/1/draftfile.php/219/user/draft/249105255/LINCS-Lesson-Planner.gif" width="600" height="350" alt="LINCS Lesson Planner home page" style="margin: 5px; vertical-align: middle;" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;Submit your Lesson&lt;/h3&gt;
-&lt;div style="text-align: left;"&gt;&lt;span&gt;When you have completed your lesson, copy the URL link so you can share it with your facilitator as you submit this assignment. You can also print it the lesson for use in your classroom. &lt;/span&gt;&lt;/div&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;div&gt;&lt;span&gt;&lt;img src="https://courses.lincs.ed.gov/1/draftfile.php/219/user/draft/249105255/URL_Lesson_planner.gif" width="600" height="350" alt="Shows My Lesson Plans page where you can copy URL for sharing and/or print your lesson plan. The Share link is highlighted." style="margin: 5px; vertical-align: middle;" /&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;</content>
+&lt;h3 style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;Submit your Lesson&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li style="text-align: left;"&gt;Go back to the Effective Lesson Planning online course and find the assignment, The Lesson Planning Model.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;At the bottom of the page, choose &lt;b&gt;Add submission&lt;/b&gt;.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;b&gt;Paste the URL link&lt;/b&gt; for the lesson plan you created into the Online text box. Add your one-page journal reflection.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Choose &lt;b&gt;Save changes &lt;/b&gt;at the bottom of the page.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;When you are finished with the assignment, choose &lt;b&gt;Submit assignment&lt;/b&gt; at the bottom of the page.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
     <contentformat>1</contentformat>
     <legacyfiles>2</legacyfiles>
     <legacyfileslast>$@NULL@$</legacyfileslast>
     <display>5</display>
     <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
-    <revision>23</revision>
-    <timemodified>1513633823</timemodified>
+    <revision>25</revision>
+    <timemodified>1540835511</timemodified>
   </page>
 </activity>
